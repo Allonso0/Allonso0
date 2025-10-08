@@ -2,4 +2,4 @@ Hi! My name is Konstantin ![](https://user-images.githubusercontent.com/18350557
 ==================================================================================================================================
 
 ### HSE Software Engineering '27
-I am a third-year student at the Faculty of Computer Science at HSE. I am starting my journey in Android development.
+I am a third-year student at the Faculty of Computer Science at HSE
